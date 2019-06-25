@@ -1,0 +1,20 @@
+product_category_sequence
+=========================
+
+The product_category_sequence module of the Tryton application platform.
+
+Installing
+----------
+
+See INSTALL
+
+
+License
+-------
+
+See LICENSE
+
+Copyright
+---------
+
+See COPYRIGHT
